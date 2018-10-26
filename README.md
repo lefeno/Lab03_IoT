@@ -77,10 +77,9 @@ Here is the UI of our assignment when we read a RFID card:
 
 - The button READ here is just a Info Tag, and doesn't have any meaning.
 
-- Raspberry will continuous READ the card that is hover over RC522 module.
+- Raspberry will continuously READ the card that is hover over RC522 module.
 
 - Only when press button WRITE, the input in Edit Text component will be written in RFID card, and then, raspberry pi will READ and display this currently written data of this card on screen. After that, it will continue to READ card as usual.
-
 
 - The behaviour of RGB LED will follow those that is described in the assignment.
 
